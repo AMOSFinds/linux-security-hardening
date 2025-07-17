@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Linux Security Hardening Script
-# Created by: Amogetswe Mashele
+# Created by: Amos Mashele
 # Date: July 12, 2025
 # Environment: WSL2 Ubuntu 24.04 LTS
 
